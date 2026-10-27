@@ -4,4 +4,4 @@
 	branch = main
 [submodule "thirdparties/FairyGUI-Editor-Online"]
 	path = thirdparties/FairyGUI-Editor-Online
-	url = https://github.com/mickorz/FairyGUI-Editor-Online.git
+	url = https://github.com/OpenFairyGUI/FairyGUI-Editor-Online.git
