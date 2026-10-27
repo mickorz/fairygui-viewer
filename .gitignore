@@ -5,6 +5,10 @@ dist/
 # 备份文件
 *.bak
 
+# 开发过程目录（不进 git）
+dev-docs/
+dev-examples/
+
 # macOS
 .DS_Store
 

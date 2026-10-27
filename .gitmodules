@@ -1,0 +1,7 @@
+[submodule "thirdparties/OpenFairyGUI"]
+	path = thirdparties/OpenFairyGUI
+	url = https://github.com/mickorz/OpenFairyGUI.git
+	branch = main
+[submodule "thirdparties/FairyGUI-Editor-Online"]
+	path = thirdparties/FairyGUI-Editor-Online
+	url = https://github.com/mickorz/FairyGUI-Editor-Online.git
